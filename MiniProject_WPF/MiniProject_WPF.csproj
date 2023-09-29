@@ -7,4 +7,10 @@
     <UseWPF>true</UseWPF>
   </PropertyGroup>
 
+  <ItemGroup>
+    <Reference Include="WinFormsDemoLibrary">
+      <HintPath>..\..\..\7.2_MiniProject_WinForms\MiniProject_WinFormsApp\WinFormsDemoLibrary\bin\Debug\WinFormsDemoLibrary.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+
 </Project>
